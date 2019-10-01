@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Distributions xmlns:tns="http://www.mcupdater.com/Distribution" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mcupdater.com/Distribution Distribution.xsd ">
+    <Distribution name="WesterosCraft">
+        <FriendlyName>Unsupported</FriendlyName>
+        <JavaVersion>1.6</JavaVersion>
+        <JavaVersion>1.7</JavaVersion>
+        <Class>com.westeroscraft.LauncherVersionError</Class>
+        <Params/>
+        <Library>
+            <Filename>WesterosCraftLauncherUnsupported.jar</Filename>
+            <Size>14247</Size>
+            <MD5>d906c1244685e29fe105320b33e16fc8</MD5>
+            <Platform>WINDOWS32</Platform>
+            <Platform>WINDOWS64</Platform>
+            <Platform>OSX64</Platform>
+            <Platform>LINUX32</Platform>
+            <Platform>LINUX64</Platform>
+            <DownloadURL>http://mc.westeroscraft.com/WesterosCraftLauncher/MCUFiles/beta/WesterosCraftLauncherUnsupported.jar</DownloadURL>
+        </Library>
+    </Distribution>
+</Distributions>

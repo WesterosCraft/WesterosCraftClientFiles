@@ -1,0 +1,32 @@
+{
+   "dimensions": [
+      {
+         "dimId": 0,
+         "weather": true,
+         "seaLevel": 34,
+         "skyHeight": 256,
+         "cloudHeight": 256,
+         "haze": false,
+         "aurora": true
+      },
+      {
+         "dimId": 2,
+         "weather": true,
+         "seaLevel": 34,
+         "skyHeight": 256,
+         "cloudHeight": 256,
+         "haze": false,
+         "aurora": true
+      },
+      {
+         "dimId": 3,
+         "weather": true,
+         "seaLevel": 34,
+         "skyHeight": 256,
+         "cloudHeight": 256,
+         "haze": false,
+         "aurora": true
+      } 
+   ]
+}
+
