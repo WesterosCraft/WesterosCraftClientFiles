@@ -369,7 +369,7 @@
         <ConfigFile>
             <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/config/betterfoliage.cfg</URL>
             <Path>/config/betterfoliage.cfg</Path>
-            <MD5>6dd38f873c4129af05a2d6c500cbe954</MD5>
+            <MD5>4178f26955aed40f26e4eddef4b77492</MD5>
         </ConfigFile>
     </Module>
     <Module id="DynamicSurroundings" name="DynamicSurroundings (1.11.2-3.4.9.15)">

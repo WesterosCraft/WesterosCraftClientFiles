@@ -429,7 +429,7 @@
             "name": "WesterosCraft Test Server",
             "description": "Main testing server. Experimental changes are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "3.10.3",
+            "version": "3.10.4",
             "address": "mc.westeroscraft.com:4444",
             "minecraftVersion": "1.11.2",
             "discord": {
@@ -727,8 +727,8 @@
                             "name": "BetterFoliage Configuration File",
                             "type": "File",
                             "artifact": {
-                                "size": 7878,
-                                "MD5": "6dd38f873c4129af05a2d6c500cbe954",
+                                "size": 8233,
+                                "MD5": "4178f26955aed40f26e4eddef4b77492",
                                 "path": "/config/betterfoliage.cfg",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/config/betterfoliage.cfg"
                             }
