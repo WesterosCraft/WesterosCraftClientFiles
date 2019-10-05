@@ -325,11 +325,11 @@
             <ModType order="10">Library</ModType>
         </Submodule>
     </Module>
-    <Module name="WesterosBlocks (3.2.0-beta-2-197)" id="WesterosBlocks">
+    <Module name="WesterosBlocks (3.2.0-beta-2-198)" id="WesterosBlocks">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/WesterosBlocks.jar</URL>
         <Required>true</Required>
         <ModType>Regular</ModType>
-        <MD5>de3b53ac2774b41306105090f3568be2</MD5>
+        <MD5>ee9e4d1afc94a932ce7a475a357e9923</MD5>
     </Module>
     <Module name="OptiFine (1.11.2_HD_U_C7)" id="OptiFine">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/OptiFine.jar</URL>
