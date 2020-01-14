@@ -654,12 +654,12 @@
                     }
                 },
                 {
-                    "id": "net.optifine:optifine:1.11.2_HD_U_C7",
+                    "id": "net.optifine:optifine:1.11.2_HD_U_F5",
                     "name": "Optifine",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 2254712,
-                        "MD5": "0dd7761e908f9b245bb0dc0fac5649f5",
+                        "size": 542744,
+                        "MD5": "0860e4670cafbca84dc9acdf0e890bf4",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/OptiFine.jar"
                     }
                 },
