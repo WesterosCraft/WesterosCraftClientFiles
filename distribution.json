@@ -15,7 +15,7 @@
             "name": "WesterosCraft Production Server",
             "description": "Main WesterosCraft server. Connect to enter the Realm.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "3.10.9",
+            "version": "3.10.10",
             "address": "mc.westeroscraft.com",
             "minecraftVersion": "1.11.2",
             "discord": {
@@ -240,12 +240,12 @@
                     }
                 },
                 {
-                    "id": "net.optifine:optifine:1.11.2_HD_U_C7",
+                    "id": "net.optifine:optifine:1.11.2_HD_U_F5",
                     "name": "Optifine",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 2254712,
-                        "MD5": "0dd7761e908f9b245bb0dc0fac5649f5",
+                        "size": 2588380,
+                        "MD5": "0860e4670cafbca84dc9acdf0e890bf4",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/OptiFine.jar"
                     }
                 },
@@ -431,7 +431,7 @@
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
             "version": "3.10.9",
             "address": "mc.westeroscraft.com:4444",
-            "minecraftVersion": "1.11.2",
+            "minecraftVersion": "1.11.3",
             "discord": {
                 "shortId": "Test Server",
                 "largeImageText": "WesterosCraft Test Server",
@@ -658,7 +658,7 @@
                     "name": "Optifine",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 542744,
+                        "size": 2588380,
                         "MD5": "0860e4670cafbca84dc9acdf0e890bf4",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/OptiFine.jar"
                     }
