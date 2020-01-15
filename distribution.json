@@ -429,9 +429,9 @@
             "name": "WesterosCraft Test Server",
             "description": "Main testing server. Experimental changes are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "3.10.9",
+            "version": "3.10.10",
             "address": "mc.westeroscraft.com:4444",
-            "minecraftVersion": "1.11.3",
+            "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Test Server",
                 "largeImageText": "WesterosCraft Test Server",
@@ -843,7 +843,7 @@
             "name": "WesterosCraft 1.12.2 Test Server",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "4.2.1",
+            "version": "4.2.2",
             "address": "mc.westeroscraft.com:4445",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -1088,12 +1088,12 @@
                     }
                 },
                 {
-                    "id": "net.optifine:optifine:1.12.2_HD_U_E3",
+                    "id": "net.optifine:optifine:1.12.2_HD_U_F5",
                     "name": "Optifine",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 2444057,
-                        "MD5": "7ec95c57ac1a224d6eb93bd370e4ac37",
+                        "size": 2598821,
+                        "MD5": "043ac1db6f7441ea4cf31bcb621aff0b",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OptiFine.jar"
                     }
                 },

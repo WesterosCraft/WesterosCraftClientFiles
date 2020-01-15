@@ -208,7 +208,7 @@
   </Server>
 
   <Server id="WesterosCraftTest-1.11.2" name="WesterosCraft Test Client" newsUrl="http://www.westeroscraft.com/home/" iconUrl="http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png"
-    revision="3.11.3" serverAddress="mc.westeroscraft.com:4444" generateList="false" version="1.11.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
+    revision="3.10.10" serverAddress="mc.westeroscraft.com:4444" generateList="false" version="1.11.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
     libOverrides="com.google.guava:guava:17.0 org.apache.commons:commons-lang3:3.3.2">
     <Module id="forge" name="Minecraft Forge 13.20.1.2476">
         <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/forge-1.11.2-13.20.1.2476-universal.jar</URL>
@@ -415,7 +415,7 @@
   </Server>
 
   <Server id="WesterosCraftTest-1.12.2" name="WesterosCraft Test Client (1.12.2)" newsUrl="http://www.westeroscraft.com/home/" iconUrl="http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png"
-    revision="4.2.1" serverAddress="mc.westeroscraft.com:4445" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
+    revision="4.2.2" serverAddress="mc.westeroscraft.com:4445" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
     libOverrides="com.google.guava:guava:21.0 org.apache.commons:commons-lang3:3.5">
     <Module id="forge" name="Minecraft Forge 14.23.5.2797">
         <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2797-universal.jar</URL>
@@ -550,11 +550,11 @@
         <ModType>Regular</ModType>
         <MD5>e5c38ef42e9cc4b957122207dcf95f4f</MD5>
     </Module>
-    <Module name="OptiFine (1.12.2_HD_U_E3)" id="OptiFine">
+    <Module name="OptiFine (1.12.2_HD_U_F5)" id="OptiFine">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OptiFine.jar</URL>
         <Required>true</Required>
         <ModType>Regular</ModType>
-        <MD5>7ec95c57ac1a224d6eb93bd370e4ac37</MD5>
+        <MD5>043ac1db6f7441ea4cf31bcb621aff0b</MD5>
     </Module>
     <Module name="JustEnoughItems (1.12.2-4.14.3.242)" id="JustEnoughItems">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/jei.jar</URL>
