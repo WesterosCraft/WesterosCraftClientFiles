@@ -1139,7 +1139,7 @@
                                 "MD5": "00cce3b240365458adcad3e77782358a",
                                 "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OreLib.jar"
                             }
-                        }
+                        },
                         {
                             "id": "westeros.json",
                             "name": "DynamicSurroundings WesterosCraft Configuration File",
