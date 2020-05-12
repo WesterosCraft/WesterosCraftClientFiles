@@ -1133,7 +1133,7 @@
                         {
                             "id": "orelib:orelib:3.6.0.1",
                             "name": "OreLib",
-                            "type": "ForgeMod",
+                            "type": "Library",
                             "artifact": {
                                 "size": 341728,
                                 "MD5": "00cce3b240365458adcad3e77782358a",
