@@ -1131,8 +1131,8 @@
                             }
                         },
                         {
-                            "id": "OreLib.jar",
-                            "name": "OreLib ",
+                            "id": "orelib:orelib:3.6.0.1",
+                            "name": "OreLib",
                             "type": "ForgeMod",
                             "artifact": {
                                 "size": 341728,
