@@ -415,13 +415,13 @@
   </Server>
 
   <Server id="WesterosCraftTest-1.12.2" name="WesterosCraft Test Client (1.12.2)" newsUrl="http://www.westeroscraft.com/home/" iconUrl="http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png"
-    revision="4.2.3" serverAddress="mc.westeroscraft.com:4445" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
+    revision="4.3.0" serverAddress="mc.westeroscraft.com:4445" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
     libOverrides="com.google.guava:guava:21.0 org.apache.commons:commons-lang3:3.5">
-    <Module id="forge" name="Minecraft Forge 14.23.5.2797">
-        <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2797-universal.jar</URL>
+    <Module id="forge" name="Minecraft Forge 14.23.5.2847">
+        <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar</URL>
         <Required>true</Required>
         <ModType order="1" jreArgs="-Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true" launchArgs="--tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge">Library</ModType>
-        <MD5>5320593704af58b3906e7106d27e41c8</MD5>
+        <MD5>90734a5a713e24902d24c45c15caa42c</MD5>
         
         <Submodule id="launchwrapper" name="Mojang (LaunchWrapper)">
             <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar</URL>
