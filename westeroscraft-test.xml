@@ -591,11 +591,11 @@
             <MD5>59035365f7af35f599d1c4baade64d8b</MD5>
         </Submodule>
     </Module>
-    <Module id="DynamicSurroundings" name="DynamicSurroundings (1.12.2-3.4.10.5)">
+    <Module id="DynamicSurroundings" name="DynamicSurroundings (1.12.2-3.6.1.0)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/DynamicSurroundings.jar</URL>
         <Required>true</Required>
         <ModType>Regular</ModType>
-        <MD5>3d75602c66b7ccfc23c342e8d5e07469</MD5>
+        <MD5>1a0d50a34941865ff091a492e0612502</MD5>
         <ConfigFile>
             <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/config/dsurround/dsurround.cfg</URL>
             <Path>/config/dsurround/dsurround.cfg</Path>
