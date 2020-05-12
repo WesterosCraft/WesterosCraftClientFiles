@@ -1131,16 +1131,6 @@
                             }
                         },
                         {
-                            "id": "orelib:orelib:3.6.0.1",
-                            "name": "OreLib",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 341728,
-                                "MD5": "00cce3b240365458adcad3e77782358a",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OreLib.jar"
-                            }
-                        },
-                        {
                             "id": "westeros.json",
                             "name": "DynamicSurroundings WesterosCraft Configuration File",
                             "type": "File",
@@ -1152,6 +1142,16 @@
                             }
                         }
                     ]
+                },
+                {
+                    "id": "orelib:orelib:3.6.0.1",
+                    "name": "OreLib 3.6.0.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 341728,
+                        "MD5": "00cce3b240365458adcad3e77782358a",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OreLib.jar"
+                    }
                 },
                 {
                     "id": "octarine-noise:betterfoliage:1.12-2.2.0",
