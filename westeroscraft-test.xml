@@ -606,6 +606,12 @@
             <Path>/config/dsurround/westeros.json</Path>
             <MD5>44eab112ff24d0bd29974c270de868ba</MD5>
         </ConfigFile>
+        <Submodule id="OreLib" name="OreLib (3.6.0.1)">
+            <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OreLib.jar</URL>
+            <ModType>Regular</ModType>
+            <Required>true</Required>
+            <MD5>00cce3b240365458adcad3e77782358a</MD5>
+        </Submodule>
     </Module>
     <Module id="WesterosCraftRP" name="WesterosCraft Resource Pack (2019-01-21)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/resourcepacks/WesterosCraft.zip</URL>
