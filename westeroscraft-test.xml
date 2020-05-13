@@ -355,11 +355,11 @@
         <ModType>Regular</ModType>
         <MD5>53f6eef360af5329d9e52b5351657908</MD5>
     </Module>
-    <Module id="journeymap" name="JourneyMap (1.11.2-5.5.2)">
+    <Module id="journeymap" name="JourneyMap (1.11.2-5.7.1)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/journeymap.jar</URL>
         <Required isDefault="true">false</Required>
         <ModType>Regular</ModType>
-        <MD5>4315e9939bf64bfa963c8674cb13e838</MD5>
+        <MD5>8160b970fc14cff30dff2785bb9f964c</MD5>
     </Module>
     <Module id="BetterFoliage" name="BetterFoliage (1.11.2-2.1.10)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/BetterFoliage.jar</URL>

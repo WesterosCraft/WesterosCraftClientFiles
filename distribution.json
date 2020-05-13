@@ -1190,15 +1190,15 @@
                     }
                 },
                 {
-                    "id": "techbrew:journeymap:1.12.2-5.5.3",
+                    "id": "techbrew:journeymap:1.12.2-5.7.1",
                     "name": "JourneyMap",
                     "type": "ForgeMod",
                     "required": {
                         "value": false
                     },
                     "artifact": {
-                        "size": 1831161,
-                        "MD5": "d3b5a672d2393f9fe63903598d50c769",
+                        "size": 6990968,
+                        "MD5": "8160b970fc14cff30dff2785bb9f964c",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/journeymap.jar"
                     }
                 },
