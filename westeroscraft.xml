@@ -355,11 +355,11 @@
         <ModType>Regular</ModType>
         <MD5>53f6eef360af5329d9e52b5351657908</MD5>
     </Module>
-    <Module id="journeymap" name="JourneyMap (1.11.2-5.5.3)">
-        <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/journeymap.jar</URL>
+    <Module id="XaerosMinimap" name="XaerosMinimap (1.11.2-20.9.0)">
+        <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/Xaeros_Minimap.jar</URL>
         <Required isDefault="true">false</Required>
         <ModType>Regular</ModType>
-        <MD5>d3b5a672d2393f9fe63903598d50c769</MD5>
+        <MD5>b024ebe7e29834f9bc1e6fcbde24be4e</MD5>
     </Module>
     <Module id="BetterFoliage" name="BetterFoliage (1.11.2-2.1.10)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/BetterFoliage.jar</URL>

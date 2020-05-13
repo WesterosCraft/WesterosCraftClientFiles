@@ -1190,16 +1190,16 @@
                     }
                 },
                 {
-                    "id": "techbrew:journeymap:1.12.2-5.5.3",
-                    "name": "JourneyMap",
+                    "id": "xaeros:minimap:1.12.2-20.9.0",
+                    "name": "XaerosMinimap",
                     "type": "ForgeMod",
                     "required": {
                         "value": false
                     },
                     "artifact": {
-                        "size": 1831161,
-                        "MD5": "d3b5a672d2393f9fe63903598d50c769",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/journeymap.jar"
+                        "size": 509611,
+                        "MD5": "b024ebe7e29834f9bc1e6fcbde24be4e",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/Xaeros_Minimap.jar"
                     }
                 },
                 {
