@@ -1203,6 +1203,16 @@
                     }
                 },
                 {
+                    "id": "horse:horse_colors:1.12.2-1.0.4",
+                    "name": "horse_colors",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1000733,
+                        "MD5": "4ac8a7074629bb32d2fc9ad24926383d",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/horse_colors.jar"
+                    }
+                },
+                {
                     "id": "com.github.hexomod:worldeditcuife2:2.2.0-mf-1.12.2-14.23.5.2768",
                     "name": "WorldEditCUI",
                     "type": "ForgeMod",

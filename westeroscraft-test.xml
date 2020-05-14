@@ -361,6 +361,12 @@
         <ModType>Regular</ModType>
         <MD5>b024ebe7e29834f9bc1e6fcbde24be4e</MD5>
     </Module>
+    <Module id="HorseColors" name="Horse Colors (1.12.2-1.0.4)">
+        <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/horse_colors.jar</URL>
+        <Required>true</Required>
+        <ModType>Regular</ModType>
+        <MD5>4ac8a7074629bb32d2fc9ad24926383d</MD5>
+    </Module>
     <Module id="BetterFoliage" name="BetterFoliage (1.11.2-2.1.10)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/BetterFoliage.jar</URL>
         <Required isDefault="true">false</Required>
