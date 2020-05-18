@@ -843,7 +843,7 @@
             "name": "WesterosCraft 1.12.2 Test Server",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "4.4.0",
+            "version": "4.4.1",
             "address": "mc.westeroscraft.com:4445",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -1067,12 +1067,12 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:4.0.0-beta-3-74",
+                    "id": "com.westeroscraft:westerosblocks:4.0.0-beta-4-76",
                     "name": "WesterosBlocks",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 17581710,
-                         "MD5": "99697919358b4d58f99aa32a7298005a",
+                        "size": 17582128,
+                         "MD5": "29588fc6c40f69e3262dba1d95a1cef8",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
