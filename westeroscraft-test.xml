@@ -624,7 +624,7 @@
         <Required>true</Required>
         <ModType>Regular</ModType>
         <ModPath>/resourcepacks/WesterosCraft.zip</ModPath>
-        <MD5>13201839981e22e2f61505892f172b61</MD5>
+        <MD5>fcb95afedf3af2bb9981af626ac197bb</MD5>
         <ConfigFile>
             <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt</URL>
             <Path>/options.txt</Path>
