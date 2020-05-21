@@ -1226,34 +1226,18 @@
                     }
                 },
                 {
-                    "id": "com.mumfrey:liteloader:1.12.2",
-                    "name": "Liteloader",
-                    "type": "LiteLoader",
+                    "id": "com.mumfrey:macrokeybindmod:1.12.2-2.0.3.204",
+                    "name": "Macro/Keybind Mod",
+                    "type": "ForgeMod",
                     "required": {
                         "value": false,
                         "def": false
                     },
                     "artifact": {
-                        "size": 1680383,
-                        "MD5": "1420785ecbfed5aff4a586c5c9dd97eb",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/liteloader.jar"
-                    },
-                    "subModules": [
-                        {
-                            "id": "com.mumfrey:macrokeybindmod:0.15.4-1.12.1@litemod",
-                            "name": "Macro/Keybind Mod",
-                            "type": "LiteMod",
-                            "required": {
-                                "value": false,
-                                "def": false
-                            },
-                            "artifact": {
-                                "size": 1726452,
-                                "MD5": "9ba3ed960bbb676743a3b6c2e1efc484",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/macrokeybindmod.litemod"
-                            }
-                        }
-                    ]
+                        "size": 87274,
+                        "MD5": "07577bfcc7acea868d56ad058b4b793e",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/MacroKey_Keybinding.jar"
+                    }
                 },
                 {
                     "id": "com.sonicether:seus-renewed:1.0.0",

@@ -568,6 +568,12 @@
         <ModType>Regular</ModType>
         <MD5>ae6d0e6e873ef6c20f41097dc7fee8c6</MD5>
     </Module>
+    <Module name="Macro/Keybind Mod (1.12.2-2.0.3.204)" id="macrokeybindmod">
+        <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/MacroKey_Keybinding.jar</URL>
+        <Required isDefault="false">false</Required>
+        <ModType>Regular</ModType>
+        <MD5>07577bfcc7acea868d56ad058b4b793e</MD5>
+    </Module>
     <Module name="WorldEditCUI (v2.2.0-mf-1.12.2-14.23.5.2768)" id="worldeditcuife">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/worldeditcuife.jar</URL>
         <Required isDefault="true">false</Required>
