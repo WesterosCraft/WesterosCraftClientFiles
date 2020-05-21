@@ -429,7 +429,7 @@
             "name": "WesterosCraft Test Server",
             "description": "Main testing server. Experimental changes are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "3.11.1",
+            "version": "3.11.0",
             "address": "mc.westeroscraft.com:4444",
             "minecraftVersion": "1.11.2",
             "discord": {
@@ -775,7 +775,7 @@
                     }
                 },
                 {
-                    "id": "com.mumfrey:liteloader:1.11.2-SNAPSHOT",
+                    "id": "com.mumfrey:liteloader:1.11.2",
                     "name": "Liteloader",
                     "type": "LiteLoader",
                     "required": {
@@ -783,9 +783,9 @@
                         "def": false
                     },
                     "artifact": {
-                        "size": 771384,
-                        "MD5": "db8bd75069c41d76e85d83fb677a8545",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/liteloader-1.11.2-SNAPSHOT.jar"
+                        "size": 1685422,
+                        "MD5": "3a98b5ed95810bf164e71c1a53be568d",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/liteloader.jar"
                     },
                     "subModules": [
                         {
