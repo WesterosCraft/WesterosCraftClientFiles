@@ -208,7 +208,7 @@
   </Server>
 
   <Server id="WesterosCraftTest-1.11.2" name="WesterosCraft Test Client" newsUrl="http://www.westeroscraft.com/home/" iconUrl="http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png"
-    revision="3.11.0" serverAddress="mc.westeroscraft.com:4444" generateList="false" version="1.11.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
+    revision="3.11.1" serverAddress="mc.westeroscraft.com:4444" generateList="false" version="1.11.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
     libOverrides="com.google.guava:guava:17.0 org.apache.commons:commons-lang3:3.3.2">
     <Module id="forge" name="Minecraft Forge 13.20.1.2476">
         <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/forge-1.11.2-13.20.1.2476-universal.jar</URL>
@@ -367,6 +367,12 @@
         <ModType>Regular</ModType>
         <MD5>4ac8a7074629bb32d2fc9ad24926383d</MD5>
     </Module>
+    <Module name="Macro/Keybind Mod (1.11.2-2.0.3.206)" id="macrokeybindmod">
+        <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/MacroKey_Keybinding.jar</URL>
+        <Required isDefault="false">false</Required>
+        <ModType>Regular</ModType>
+        <MD5>79cb2ee5abcf796b15f33660c09d649d</MD5>
+    </Module>
     <Module id="BetterFoliage" name="BetterFoliage (1.11.2-2.1.10)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/BetterFoliage.jar</URL>
         <Required isDefault="true">false</Required>
@@ -421,7 +427,7 @@
   </Server>
 
   <Server id="WesterosCraftTest-1.12.2" name="WesterosCraft Test Client (1.12.2)" newsUrl="http://www.westeroscraft.com/home/" iconUrl="http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png"
-    revision="4.4.1" serverAddress="mc.westeroscraft.com:4445" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
+    revision="4.4.2" serverAddress="mc.westeroscraft.com:4445" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
     libOverrides="com.google.guava:guava:21.0 org.apache.commons:commons-lang3:3.5">
     <Module id="forge" name="Minecraft Forge 14.23.5.2847">
         <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar</URL>

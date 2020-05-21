@@ -429,7 +429,7 @@
             "name": "WesterosCraft Test Server",
             "description": "Main testing server. Experimental changes are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "3.11.0",
+            "version": "3.11.1",
             "address": "mc.westeroscraft.com:4444",
             "minecraftVersion": "1.11.2",
             "discord": {
@@ -749,6 +749,20 @@
                     }
                 },
                 {
+                    "id": "com.mumfrey:macrokeybindmod:1.11.2-2.0.3.206",
+                    "name": "Macro/Keybind Mod",
+                    "type": "ForgeMod",
+                    "required": {
+                        "value": false,
+                        "def": false
+                    },
+                    "artifact": {
+                        "size": 86007,
+                        "MD5": "79cb2ee5abcf796b15f33660c09d649d",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/MacroKey_Keybinding.jar"
+                    }
+                },
+                {
                     "id": "com.github.hexomod:worldeditcuife2:2.1.2-mf-1.11.2-13.20.0.2228",
                     "name": "WorldEditCUI",
                     "type": "ForgeMod",
@@ -773,36 +787,6 @@
                         "MD5": "26258a3557bf333e8f4ce8b1e9481031",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/Waila.jar"
                     }
-                },
-                {
-                    "id": "com.mumfrey:liteloader:1.11.2",
-                    "name": "Liteloader",
-                    "type": "LiteLoader",
-                    "required": {
-                        "value": false,
-                        "def": false
-                    },
-                    "artifact": {
-                        "size": 1685422,
-                        "MD5": "3a98b5ed95810bf164e71c1a53be568d",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/liteloader.jar"
-                    },
-                    "subModules": [
-                        {
-                            "id": "com.mumfrey:macrokeybindmod:0.14.4-1.11.2@litemod",
-                            "name": "Macro/Keybind Mod",
-                            "type": "LiteMod",
-                            "required": {
-                                "value": false,
-                                "def": false
-                            },
-                            "artifact": {
-                                "size": 1670811,
-                                "MD5": "16080785577b391d426c62c8d3138558",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/macrokeybindmod.litemod"
-                            }
-                        }
-                    ]
                 },
                 {
                     "id": "com.sonicether:seus:11.0",
