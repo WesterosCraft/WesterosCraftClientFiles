@@ -208,7 +208,7 @@
   </Server>
 
   <Server id="WesterosCraftTest-1.11.2" name="WesterosCraft Test Client" newsUrl="http://www.westeroscraft.com/home/" iconUrl="http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png"
-    revision="3.11.1" serverAddress="mc.westeroscraft.com:4444" generateList="false" version="1.11.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
+    revision="3.11.2" serverAddress="mc.westeroscraft.com:4444" generateList="false" version="1.11.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
     libOverrides="com.google.guava:guava:17.0 org.apache.commons:commons-lang3:3.3.2">
     <Module id="forge" name="Minecraft Forge 13.20.1.2476">
         <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/forge-1.11.2-13.20.1.2476-universal.jar</URL>
@@ -325,10 +325,10 @@
             <ModType order="10">Library</ModType>
         </Submodule>
     </Module>
-    <Module name="WesterosBlocks (3.3.0-beta-1-203)" id="WesterosBlocks">
+    <Module name="WesterosBlocks (3.3.0-beta-1-204)" id="WesterosBlocks">
         <Required>true</Required>
         <ModType>Regular</ModType>
-        <MD5>e9a9d54e4593a8c1d3d21889b97c6d5d</MD5>
+        <MD5>2e3726d72a404eb0c4cce783caa73e2f</MD5>
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/mods/WesterosBlocks.jar</URL>
     </Module>
     <Module name="OptiFine (1.11.2_HD_U_F5)" id="OptiFine">
@@ -400,11 +400,11 @@
             <MD5>44eab112ff24d0bd29974c270de868ba</MD5>
         </ConfigFile>
     </Module>
-    <Module id="WesterosCraftRP" name="WesterosCraft Resource Pack (1.11.2-38)">
+    <Module id="WesterosCraftRP" name="WesterosCraft Resource Pack (1.11.2-39)">
         <Required>true</Required>
         <ModType>Regular</ModType>
         <ModPath>/resourcepacks/WesterosCraft.zip</ModPath>
-        <MD5>6f141dcf86f8faa0af107a6768880456</MD5>
+        <MD5>ec122e9dd6c74e8beefb1d996d63e564</MD5>
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.11.2/resourcepacks/WesterosCraft.zip</URL>
         <ConfigFile>
             <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.11.2.txt</URL>
@@ -556,11 +556,11 @@
             <ModType order="11">Library</ModType>
         </Submodule>
     </Module>
-    <Module name="WesterosBlocks (4.0.0-beta-4-76)" id="WesterosBlocks">
+    <Module name="WesterosBlocks (4.0.0-beta-4-77)" id="WesterosBlocks">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar</URL>
         <Required>true</Required>
         <ModType>Regular</ModType>
-        <MD5>29588fc6c40f69e3262dba1d95a1cef8</MD5>
+        <MD5>f6167a5427751347980937ed87a9422c</MD5>
     </Module>
     <Module name="OptiFine (1.12.2_HD_U_F5)" id="OptiFine">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OptiFine.jar</URL>
@@ -631,12 +631,12 @@
             <MD5>00cce3b240365458adcad3e77782358a</MD5>
         </Submodule>
     </Module>
-    <Module id="WesterosCraftRP" name="WesterosCraft Resource Pack (1.12.2-11)">
+    <Module id="WesterosCraftRP" name="WesterosCraft Resource Pack (1.12.2-13)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/resourcepacks/WesterosCraft.zip</URL>
         <Required>true</Required>
         <ModType>Regular</ModType>
         <ModPath>/resourcepacks/WesterosCraft.zip</ModPath>
-        <MD5>fcb95afedf3af2bb9981af626ac197bb</MD5>
+        <MD5>ec122e9dd6c74e8beefb1d996d63e564</MD5>
         <ConfigFile>
             <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt</URL>
             <Path>/options.txt</Path>
