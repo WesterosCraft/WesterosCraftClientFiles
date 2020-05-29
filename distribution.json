@@ -15,7 +15,7 @@
             "name": "WesterosCraft Production Server",
             "description": "Main WesterosCraft server. Connect to enter the Realm.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "3.11.0",
+            "version": "3.11.2",
             "address": "mc.westeroscraft.com",
             "minecraftVersion": "1.11.2",
             "discord": {
@@ -219,22 +219,22 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:3.3.0-beta-1-203",
+                    "id": "com.westeroscraft:westerosblocks:3.3.0-beta-1-204",
                     "name": "WesterosBlocks",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 17675741,
-                         "MD5": "e9a9d54e4593a8c1d3d21889b97c6d5d",
+                        "size": 17744885,
+                         "MD5": "2e3726d72a404eb0c4cce783caa73e2f",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/WesterosBlocks.jar"
                     }
                 },
                 {
-                    "id": "com.westeroscraft:westeroscraftrp:1.11.2-38",
+                    "id": "com.westeroscraft:westeroscraftrp:1.11.2-39",
                     "name": "WesterosCraft Resource Pack",
                     "type": "File",
                     "artifact": {
-                        "size": 50864260,
-                        "MD5": "6f141dcf86f8faa0af107a6768880456",
+                        "size": 50876827,
+                        "MD5": "ec122e9dd6c74e8beefb1d996d63e564",
                         "path": "resourcepacks/WesterosCraft.zip",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/resourcepacks/WesterosCraft.zip"
                     }
