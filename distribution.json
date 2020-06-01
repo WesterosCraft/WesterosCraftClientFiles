@@ -1201,7 +1201,8 @@
                     "name": "WorldEditCUI",
                     "type": "ForgeMod",
                     "required": {
-                        "value": false
+                        "value": false,
+                        "def": false
                     },
                     "artifact": {
                         "size": 861081,

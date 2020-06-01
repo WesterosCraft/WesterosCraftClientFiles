@@ -582,7 +582,7 @@
     </Module>
     <Module name="WorldEditCUI (v3-1.12.2-3.0.4)" id="worldeditcuife">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/worldeditcuife.jar</URL>
-        <Required isDefault="true">false</Required>
+        <Required isDefault="false">false</Required>
         <ModType>Regular</ModType>
         <MD5>0807a7fcf26b50b23288daecc5ee6ae4</MD5>
     </Module>
