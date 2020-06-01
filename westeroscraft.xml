@@ -427,7 +427,7 @@
   </Server>
 
   <Server id="WesterosCraftTest-1.12.2" name="WesterosCraft Test Client (1.12.2)" newsUrl="http://www.westeroscraft.com/home/" iconUrl="http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png"
-    revision="4.4.2" serverAddress="mc.westeroscraft.com:4445" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
+    revision="4.4.3" serverAddress="mc.westeroscraft.com:4445" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
     libOverrides="com.google.guava:guava:21.0 org.apache.commons:commons-lang3:3.5">
     <Module id="forge" name="Minecraft Forge 14.23.5.2847">
         <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar</URL>
@@ -580,11 +580,11 @@
         <ModType>Regular</ModType>
         <MD5>07577bfcc7acea868d56ad058b4b793e</MD5>
     </Module>
-    <Module name="WorldEditCUI (v2.2.0-mf-1.12.2-14.23.5.2768)" id="worldeditcuife">
+    <Module name="WorldEditCUI (v3-1.12.2-3.0.4)" id="worldeditcuife">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/worldeditcuife.jar</URL>
         <Required isDefault="true">false</Required>
         <ModType>Regular</ModType>
-        <MD5>2b8c1c3bc48c2d80b71daa658f656edb</MD5>
+        <MD5>0807a7fcf26b50b23288daecc5ee6ae4</MD5>
     </Module>
     <Module id="journeymap" name="JourneyMap (1.12.2-5.5.3)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/journeymap.jar</URL>

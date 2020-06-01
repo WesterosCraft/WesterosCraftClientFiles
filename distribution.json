@@ -827,7 +827,7 @@
             "name": "WesterosCraft 1.12.2 Test Server",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "4.4.2",
+            "version": "4.4.3",
             "address": "mc.westeroscraft.com:4445",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -1197,15 +1197,15 @@
                     }
                 },
                 {
-                    "id": "com.github.hexomod:worldeditcuife2:2.2.0-mf-1.12.2-14.23.5.2768",
+                    "id": "com.github.hexomod:worldedit-cui-fe3:1.12.2-3.0.4",
                     "name": "WorldEditCUI",
                     "type": "ForgeMod",
                     "required": {
                         "value": false
                     },
                     "artifact": {
-                        "size": 459294,
-                        "MD5": "2b8c1c3bc48c2d80b71daa658f656edb",
+                        "size": 861081,
+                        "MD5": "0807a7fcf26b50b23288daecc5ee6ae4",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/worldeditcuife.jar"
                     }
                 },
