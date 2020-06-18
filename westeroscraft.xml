@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerPack version="3.0">
   <Server id="WesterosCraft-1.12.2" name="WesterosCraft Prod Client (1.12.2)" newsUrl="http://www.westeroscraft.com/home/" iconUrl="http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png"
-    revision="4.4.3" serverAddress="mc.westeroscraft.com:32566" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
+    revision="4.4.3" serverAddress="mc.westeroscraft.com:25565" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
     libOverrides="com.google.guava:guava:21.0 org.apache.commons:commons-lang3:3.5">
     <Module id="forge" name="Minecraft Forge 14.23.5.2847">
         <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar</URL>

@@ -16,7 +16,7 @@
             "description": "New 1.12.2 production server.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
             "version": "4.4.3",
-            "address": "mc.westeroscraft.com:32565",
+            "address": "mc.westeroscraft.com:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.12.2 Production Server",
