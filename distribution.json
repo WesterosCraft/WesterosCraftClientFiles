@@ -675,22 +675,22 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:4.0.1-80",
+                    "id": "com.westeroscraft:westerosblocks:4.0.1-82",
                     "name": "WesterosBlocks",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 17648312,
-                         "MD5": "c027bf6fe9cbb9fe7cc74396b4efc4bd",
+                        "size": 17648310,
+                         "MD5": "cc4c013d000aa89bfd6aba54cdb16f6a",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
                 {
-                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-13",
+                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-14",
                     "name": "WesterosCraft Resource Pack",
                     "type": "File",
                     "artifact": {
-                        "size": 50876827,
-                        "MD5": "ec122e9dd6c74e8beefb1d996d63e564",
+                        "size": 50876844,
+                        "MD5": "0290f9a3165de3d2b96bf838fbd83de2",
                         "path": "resourcepacks/WesterosCraft.zip",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/resourcepacks/WesterosCraft.zip"
                     }

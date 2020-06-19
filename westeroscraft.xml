@@ -361,11 +361,11 @@
             <ModType order="11">Library</ModType>
         </Submodule>
     </Module>
-    <Module name="WesterosBlocks (4.0.1-80)" id="WesterosBlocks">
+    <Module name="WesterosBlocks (4.0.1-82)" id="WesterosBlocks">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar</URL>
         <Required>true</Required>
         <ModType>Regular</ModType>
-        <MD5>c027bf6fe9cbb9fe7cc74396b4efc4bd</MD5>
+        <MD5>cc4c013d000aa89bfd6aba54cdb16f6a</MD5>
     </Module>
     <Module name="OptiFine (1.12.2_HD_U_F5)" id="OptiFine">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OptiFine.jar</URL>
@@ -436,12 +436,12 @@
             <MD5>00cce3b240365458adcad3e77782358a</MD5>
         </Submodule>
     </Module>
-    <Module id="WesterosCraftRP" name="WesterosCraft Resource Pack (1.12.2-13)">
+    <Module id="WesterosCraftRP" name="WesterosCraft Resource Pack (1.12.2-14)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/resourcepacks/WesterosCraft.zip</URL>
         <Required>true</Required>
         <ModType>Regular</ModType>
         <ModPath>/resourcepacks/WesterosCraft.zip</ModPath>
-        <MD5>ec122e9dd6c74e8beefb1d996d63e564</MD5>
+        <MD5>0290f9a3165de3d2b96bf838fbd83de2</MD5>
         <ConfigFile>
             <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt</URL>
             <Path>/options.txt</Path>
