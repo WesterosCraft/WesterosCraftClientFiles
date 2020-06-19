@@ -675,12 +675,12 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:4.0.1-83",
+                    "id": "com.westeroscraft:westerosblocks:4.0.1-84",
                     "name": "WesterosBlocks",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 17648310,
-                         "MD5": "8fbee311894e65667e24170439720db5",
+                        "size": 17648548,
+                         "MD5": "d92867ae68a62c83c8b80191e80d240c",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
