@@ -15,7 +15,7 @@
             "name": "WesterosCraft 1.12.2 Production Server",
             "description": "New 1.12.2 production server.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "4.5.1",
+            "version": "4.5.2",
             "address": "mc.westeroscraft.com:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -249,12 +249,12 @@
                     }
                 },
                 {
-                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-13",
+                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-15",
                     "name": "WesterosCraft Resource Pack",
                     "type": "File",
                     "artifact": {
-                        "size": 50876827,
-                        "MD5": "ec122e9dd6c74e8beefb1d996d63e564",
+                        "size": 50971565,
+                        "MD5": "ab7961913ffd6f531edd9b97ee2615a7",
                         "path": "resourcepacks/WesterosCraft.zip",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/resourcepacks/WesterosCraft.zip"
                     }
@@ -451,7 +451,7 @@
             "name": "WesterosCraft 1.12.2 Test Server",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "4.5.1",
+            "version": "4.5.2",
             "address": "mc.westeroscraft.com:4445",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -685,12 +685,12 @@
                     }
                 },
                 {
-                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-14",
+                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-15",
                     "name": "WesterosCraft Resource Pack",
                     "type": "File",
                     "artifact": {
-                        "size": 50876844,
-                        "MD5": "0290f9a3165de3d2b96bf838fbd83de2",
+                        "size": 50971565,
+                        "MD5": "ab7961913ffd6f531edd9b97ee2615a7",
                         "path": "resourcepacks/WesterosCraft.zip",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/resourcepacks/WesterosCraft.zip"
                     }
