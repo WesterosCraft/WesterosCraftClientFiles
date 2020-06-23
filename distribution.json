@@ -451,7 +451,7 @@
             "name": "WesterosCraft 1.12.2 Test Server",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "4.5.3",
+            "version": "4.5.4",
             "address": "mc.westeroscraft.com:4445",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -675,12 +675,12 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:4.0.2-84",
+                    "id": "com.westeroscraft:westerosblocks:4.0.2-88",
                     "name": "WesterosBlocks",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 17648789,
-                         "MD5": "9b1039f1f3d004b9e4f8acdadd59f20b",
+                        "size": 17648616,
+                         "MD5": "18209bd038a5a04936a8ce98dd635c5c",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
@@ -798,15 +798,15 @@
                     }
                 },
                 {
-                    "id": "xaeros:minimap:1.12.2-20.9.0",
+                    "id": "xaeros:minimap:1.12.2-20.15.0",
                     "name": "XaerosMinimap",
                     "type": "ForgeMod",
                     "required": {
                         "value": false
                     },
                     "artifact": {
-                        "size": 509611,
-                        "MD5": "b024ebe7e29834f9bc1e6fcbde24be4e",
+                        "size": 528849,
+                        "MD5": "cc12cfe20febd1404345f5339e522cda",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/Xaeros_Minimap.jar"
                     }
                 },
