@@ -226,7 +226,7 @@
   </Server>
   
   <Server id="WesterosCraftTest-1.12.2" name="WesterosCraft Test Client (1.12.2)" newsUrl="http://www.westeroscraft.com/home/" iconUrl="http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png"
-    revision="4.5.4" serverAddress="mc.westeroscraft.com:4445" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
+    revision="4.5.5" serverAddress="mc.westeroscraft.com:4445" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
     libOverrides="com.google.guava:guava:21.0 org.apache.commons:commons-lang3:3.5">
     <Module id="forge" name="Minecraft Forge 14.23.5.2847">
         <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar</URL>
@@ -355,11 +355,11 @@
             <ModType order="11">Library</ModType>
         </Submodule>
     </Module>
-    <Module name="WesterosBlocks (4.0.2-88)" id="WesterosBlocks">
+    <Module name="WesterosBlocks (4.0.2-89)" id="WesterosBlocks">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar</URL>
         <Required>true</Required>
         <ModType>Regular</ModType>
-        <MD5>18209bd038a5a04936a8ce98dd635c5c</MD5>
+        <MD5>13899c672a9461f5b5ff5c1a711d6b5f</MD5>
     </Module>
     <Module name="OptiFine (1.12.2_HD_U_F5)" id="OptiFine">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OptiFine.jar</URL>
