@@ -15,7 +15,7 @@
             "name": "WesterosCraft 1.12.2 Production Server",
             "description": "New 1.12.2 production server.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "4.5.2",
+            "version": "4.5.8",
             "address": "mc.westeroscraft.com:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -239,12 +239,12 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:4.0.1-84",
+                    "id": "com.westeroscraft:westerosblocks:4.0.4-96",
                     "name": "WesterosBlocks",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 17648548,
-                         "MD5": "d92867ae68a62c83c8b80191e80d240c",
+                        "size": 17654349,
+                         "MD5": "ac07db8c2a1dbd6f3d2e15d77a33c4d5",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
@@ -362,15 +362,15 @@
                     }
                 },
                 {
-                    "id": "xaeros:minimap:1.12.2-20.9.0",
+                    "id": "xaeros:minimap:1.12.2-20.15.0",
                     "name": "XaerosMinimap",
                     "type": "ForgeMod",
                     "required": {
                         "value": false
                     },
                     "artifact": {
-                        "size": 509611,
-                        "MD5": "b024ebe7e29834f9bc1e6fcbde24be4e",
+                        "size": 528849,
+                        "MD5": "cc12cfe20febd1404345f5339e522cda",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/Xaeros_Minimap.jar"
                     }
                 },
