@@ -451,7 +451,7 @@
             "name": "WesterosCraft 1.12.2 Test Server",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "4.5.8",
+            "version": "4.5.9",
             "address": "mc.westeroscraft.com:4445",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -846,6 +846,20 @@
                         "size": 87274,
                         "MD5": "07577bfcc7acea868d56ad058b4b793e",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/MacroKey_Keybinding.jar"
+                    }
+                },
+                {
+                    "id": "com.theincgi:advancedMacros:1.12.2-7.9.0",
+                    "name": "Advanced Macros mod",
+                    "type": "ForgeMod",
+                    "required": {
+                        "value": false,
+                        "def": false
+                    },
+                    "artifact": {
+                        "size": 1858172,
+                        "MD5": "e9dee578e2ab576a65d78e7d48ddc12a",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/advancedmacros.jar"
                     }
                 },
                 {
