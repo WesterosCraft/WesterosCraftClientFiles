@@ -451,7 +451,7 @@
             "name": "WesterosCraft 1.12.2 Test Server",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "4.5.9",
+            "version": "4.5.10",
             "address": "mc.westeroscraft.com:4445",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -818,6 +818,16 @@
                         "size": 1000733,
                         "MD5": "4ac8a7074629bb32d2fc9ad24926383d",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/horse_colors.jar"
+                    }
+                },
+                {
+                    "id": "com.westeroscraft:westerosentities:1.12.2-b6",
+                    "name": "westerosentities",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 287218,
+                        "MD5": "a02be14d86cb9748892a92778b194f4c",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/westerosentities.jar"
                     }
                 },
                 {
