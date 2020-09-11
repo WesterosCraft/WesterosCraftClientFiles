@@ -685,12 +685,12 @@
                     }
                 },
                 {
-                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-16",
+                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-107",
                     "name": "WesterosCraft Resource Pack",
                     "type": "File",
                     "artifact": {
-                        "size": 53273275,
-                        "MD5": "8a797ec1f795c6cf8fa625889401048c",
+                        "size": 53273302,
+                        "MD5": "58ecc1502515aa09662a44479387e461",
                         "path": "resourcepacks/WesterosCraft.zip",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/resourcepacks/WesterosCraft.zip"
                     }

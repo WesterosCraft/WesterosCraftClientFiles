@@ -436,12 +436,12 @@
             <MD5>00cce3b240365458adcad3e77782358a</MD5>
         </Submodule>
     </Module>
-    <Module id="WesterosCraftRP" name="WesterosCraft Resource Pack (1.12.2-16)">
+    <Module id="WesterosCraftRP" name="WesterosCraft Resource Pack (1.12.2-17)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/resourcepacks/WesterosCraft.zip</URL>
         <Required>true</Required>
         <ModType>Regular</ModType>
         <ModPath>/resourcepacks/WesterosCraft.zip</ModPath>
-        <MD5>8a797ec1f795c6cf8fa625889401048c</MD5>
+        <MD5>58ecc1502515aa09662a44479387e461</MD5>
         <ConfigFile>
             <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt</URL>
             <Path>/options.txt</Path>
