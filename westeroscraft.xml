@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ServerPack version="3.0">
   <Server id="WesterosCraft-1.12.2" name="WesterosCraft Prod Client (1.12.2)" newsUrl="http://www.westeroscraft.com/home/" iconUrl="http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png"
-    revision="4.5.8" serverAddress="mc.westeroscraft.com:25565" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
+    revision="4.6.4" serverAddress="mc.westeroscraft.com:25565" generateList="false" version="1.12.2" autoConnect="true" mainClass="net.minecraft.launchwrapper.Launch"
     libOverrides="com.google.guava:guava:21.0 org.apache.commons:commons-lang3:3.5">
     <Module id="forge" name="Minecraft Forge 14.23.5.2847">
         <URL priority="0">http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar</URL>
@@ -130,11 +130,11 @@
             <ModType order="11">Library</ModType>
         </Submodule>
     </Module>
-    <Module name="WesterosBlocks (4.0.1-86)" id="WesterosBlocks">
+    <Module name="WesterosBlocks (4.2.0-106)" id="WesterosBlocks">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/WesterosBlocks.jar</URL>
         <Required>true</Required>
         <ModType>Regular</ModType>
-        <MD5>ac07db8c2a1dbd6f3d2e15d77a33c4d5</MD5>
+        <MD5>482dc28327bff6b76efacd003df845f5</MD5>
     </Module>
     <Module name="OptiFine (1.12.2_HD_U_F5)" id="OptiFine">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/OptiFine.jar</URL>
@@ -199,12 +199,12 @@
             <MD5>00cce3b240365458adcad3e77782358a</MD5>
         </Submodule>
     </Module>
-    <Module id="WesterosCraftRP" name="WesterosCraft Resource Pack (1.12.2-15)">
+    <Module id="WesterosCraftRP" name="WesterosCraft Resource Pack (1.12.2-20)">
         <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/resourcepacks/WesterosCraft.zip</URL>
         <Required>true</Required>
         <ModType>Regular</ModType>
         <ModPath>/resourcepacks/WesterosCraft.zip</ModPath>
-        <MD5>ab7961913ffd6f531edd9b97ee2615a7</MD5>
+        <MD5>d26483bfc73b71af57499f4ac8932e7c</MD5>
         <ConfigFile>
             <URL>http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt</URL>
             <Path>/options.txt</Path>

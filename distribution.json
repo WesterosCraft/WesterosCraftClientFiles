@@ -15,7 +15,7 @@
             "name": "WesterosCraft 1.12.2 Production Server",
             "description": "New 1.12.2 production server.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "4.5.8",
+            "version": "4.6.4",
             "address": "mc.westeroscraft.com:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -239,22 +239,22 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:4.0.4-96",
+                    "id": "com.westeroscraft:westerosblocks:4.2.0-106",
                     "name": "WesterosBlocks",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 17654349,
-                         "MD5": "ac07db8c2a1dbd6f3d2e15d77a33c4d5",
+                        "size": 18287745,
+                         "MD5": "482dc28327bff6b76efacd003df845f5",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
                 {
-                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-15",
+                    "id": "com.westeroscraft:westeroscraftrp:1.12.2-20",
                     "name": "WesterosCraft Resource Pack",
                     "type": "File",
                     "artifact": {
-                        "size": 50971565,
-                        "MD5": "ab7961913ffd6f531edd9b97ee2615a7",
+                        "size": 53240128,
+                        "MD5": "d26483bfc73b71af57499f4ac8932e7c",
                         "path": "resourcepacks/WesterosCraft.zip",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/resourcepacks/WesterosCraft.zip"
                     }
