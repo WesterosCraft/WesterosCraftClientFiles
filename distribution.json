@@ -15,7 +15,7 @@
             "name": "WesterosCraft 1.12.2 Production Server",
             "description": "New 1.12.2 production server.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "4.6.4",
+            "version": "4.6.5",
             "address": "mc.westeroscraft.com:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -239,12 +239,12 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:4.2.0-106",
+                    "id": "com.westeroscraft:westerosblocks:4.2.1-111",
                     "name": "WesterosBlocks",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 18287745,
-                         "MD5": "482dc28327bff6b76efacd003df845f5",
+                        "size": 18288340,
+                         "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
@@ -451,7 +451,7 @@
             "name": "WesterosCraft 1.12.2 Test Server",
             "description": "Tests for our version change to 1.12.2 are live here.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "4.6.4",
+            "version": "4.6.5",
             "address": "mc.westeroscraft.com:4445",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -675,12 +675,12 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:4.2.0-106",
+                    "id": "com.westeroscraft:westerosblocks:4.2.1-111",
                     "name": "WesterosBlocks",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 18287745,
-                         "MD5": "482dc28327bff6b76efacd003df845f5",
+                        "size": 18288340,
+                         "MD5": "e64fd359d928b7c8e6a8f4e1ceebe230",
                         "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/WesterosBlocks.jar"
                     }
                 },
